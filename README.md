@@ -45,6 +45,20 @@ Free web-resources you may want to use to promote your next startup.
 | [hoverstat.es](https://www.hoverstat.es/) | The home of alternative web-design |
 | [read.cv](https://read.cv/) | Profiles of developers and their projects |
 | [alternative.me](https://alternative.me/) | Crowd-sourced software recommendations |
+| [g2.com](https://g2.com) | The biggest software review marketplace |
+| [capterra.com](https://capterra.com) | Gartner-owned software directory with high commercial-intent traffic |
+| [getapp.com](https://getapp.com) | Gartner Digital Markets sister to Capterra |
+| [softwareadvice.com](https://softwareadvice.com) | Third Gartner property |
+| [saasworthy.com](https://saasworthy.com) | Software discovery and comparison platform with category rankings |
+| [tekpon.com](https://tekpon.com) | SaaS marketplace and review platform with podcasts and roundups |
+| [awwwards.com](https://awwwards.com) | Premier web-design awards |
+| [onepagelove.com](https://onepagelove.com) | Gallery for one-page websites |
+| [land-book.com](https://land-book.com) | Curated landing-page gallery |
+| [saaslandingpage.com](https://saaslandingpage.com) | Gallery focused on SaaS landing pages |
+| [httpster.net](https://httpster.net) | Inspiration gallery of clean, modern sites |
+| [terminaltrove.com](https://terminaltrove.com) | A curated directory of command-line and TUI tools for developers and engineers |
+| [peerlist.io](https://peerlist.io) | Professional network for makers with a Launchpad |
+| [stackshare.io](https://stackshare.io) | Publish your tech stack and tools |
 
 ## Post an Article
 
@@ -245,6 +259,34 @@ To do so just do the following Google search but with the resource you're intere
 | [launchingnext.com](https://www.launchingnext.com) | New startups and ideas |
 | [startupranking.com](https://www.startupranking.com) | New startups and ideas |
 | [awesomeindie.com](https://awesomeindie.com) | Products made by independent makers and creators |
+| [theresanaiforthat.com](https://theresanaiforthat.com) | The highest-traffic AI tools directory |
+| [futurepedia.io](https://futurepedia.io) | Large AI-tool catalog with category browse |
+| [futuretools.io](https://futuretools.io) | Curated AI-tool collection by Matt Wolfe |
+| [toolify.ai](https://toolify.ai) | AI tools directory with strong programmatic-SEO surface area |
+| [insidr.ai](https://insidr.ai) | AI tools directory and newsletter |
+| [saasaitools.com](https://saasaitools.com) | Directory of AI-powered SaaS |
+| [foundersdatabase.com](https://foundersdatabase.com) | An AI tools directory where founders list their products and AI workflows |
+| [devhunt.org](https://devhunt.org) | Launch platform for developer tools, run by the Hacker News-adjacent dev community |
+| [startupfa.me](https://startupfa.me) | Launch directory with a dofollow link |
+| [startupbase.io](https://startupbase.io) | Community-driven startup directory |
+| [uneed.best](https://uneed.best) | Daily product launch platform for tools and resources |
+| [10words.io](https://10words.io) | Describe your product in ten words |
+| [fazier.com](https://fazier.com) | Product Hunt-style launch board |
+| [microlaunch.net](https://microlaunch.net) | Launch platform for indie and micro-SaaS products |
+| [pitchwall.co](https://pitchwall.co) | Launch and upvote platform for startups |
+| [tinylaun.ch](https://tinylaun.ch) | Fast, no-frills launch board popular with indie hackers |
+| [kagi.com](https://kagi.com) | Kagi's Small Web surfaces fresh posts from personal blogs and independent sites |
+| [marginalia-search.com](https://marginalia-search.com) | An independent search engine that favors small, text-first, non-commercial sites |
+| [wiby.me](https://wiby.me) | A search engine for the classic, hand-made web of personal pages and hobby sites |
+| [browse.fyi](https://browse.fyi) | A hand-picked directory of standout websites and tools |
+| [iii.social](https://iii.social) | A curated index of independent websites and personal corners of the internet |
+| [topfour.net](https://topfour.net) | A directory of personal /top4 pages |
+| [blogroll.org](https://blogroll.org) | A hand-curated blogroll of personal blogs across every topic |
+| [blogs.hn](https://blogs.hn) | A directory of personal blogs run by Hacker News users |
+| [minifeed.net](https://minifeed.net) | A curated blog reader and search engine for high-quality independent blogs |
+| [text.blogosphere.app](https://text.blogosphere.app) | A live feed of fresh posts from independent blogs across the web |
+| [indieblog.page](https://indieblog.page) | Discover the indie web one blog post at a time with a random-blog button |
+| [hnpwd.github.io](https://hnpwd.github.io) | A community-maintained directory of personal websites belonging to Hacker News users |
 
 ## Other suggestions
 
